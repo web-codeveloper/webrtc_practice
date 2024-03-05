@@ -1,0 +1,26 @@
+{
+  "name": "webrtc_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node expressServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-codeveloper/webrtc_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-codeveloper/webrtc_practice/issues"
+  },
+  "homepage": "https://github.com/web-codeveloper/webrtc_practice#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7"
+  }
+}
