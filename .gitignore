@@ -1,2 +1,5 @@
-node_modules
-package-lock.json
+/media_device/node_modules
+/media_device/package-lock.json
+
+/peer_connection/node_modules
+/peer_connection/package-lock.json
