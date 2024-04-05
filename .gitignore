@@ -3,3 +3,9 @@
 
 /peer_connection/node_modules
 /peer_connection/package-lock.json
+
+/fontend/node_modules
+/fontend/package-lock.json
+
+/backend/node_modules
+/backend/package-lock.json
